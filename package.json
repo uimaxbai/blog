@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "My blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "keywords": [],
+  "author": "@uimaxbai",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "astro": "^4.7.1",
+    "bootstrap-icons": "^1.11.3"
+  }
+}

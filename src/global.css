@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('fonts/hinted-InterTight-Thin.eot');
+    src: url('fonts/hinted-InterTight-Thin.eot?#iefix') format('embedded-opentype'),
+        url('fonts/hinted-InterTight-Thin.woff2') format('woff2'),
+        url('fonts/hinted-InterTight-Thin.woff') format('woff'),
+        url('fonts/hinted-InterTight-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('fonts/hinted-InterTight-Italic.eot');
+    src: url('fonts/hinted-InterTight-Italic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/hinted-InterTight-Italic.woff2') format('woff2'),
+        url('fonts/hinted-InterTight-Italic.woff') format('woff'),
+        url('fonts/hinted-InterTight-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('fonts/hinted-InterTight-BoldItalic.eot');
+    src: url('fonts/hinted-InterTight-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/hinted-InterTight-BoldItalic.woff2') format('woff2'),
+        url('fonts/hinted-InterTight-BoldItalic.woff') format('woff'),
+        url('fonts/hinted-InterTight-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('fonts/hinted-InterTight-Bold.eot');
+    src: url('fonts/hinted-InterTight-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/hinted-InterTight-Bold.woff2') format('woff2'),
+        url('fonts/hinted-InterTight-Bold.woff') format('woff'),
+        url('fonts/hinted-InterTight-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter Tight';
+    src: url('fonts/hinted-InterTight-Regular.eot');
+    src: url('fonts/hinted-InterTight-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/hinted-InterTight-Regular.woff2') format('woff2'),
+        url('fonts/hinted-InterTight-Regular.woff') format('woff'),
+        url('fonts/hinted-InterTight-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter Tight', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
